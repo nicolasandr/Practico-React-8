@@ -1,10 +1,11 @@
 import React from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
+import TituloFormulario from './components/TituloFormulario';
 const App = () => {
     return (
-        <div>
-            <h1 className='display-1'>hola mundo</h1>
-        </div>
+        <main >
+           <TituloFormulario></TituloFormulario>
+        </main>
     );
 };
 

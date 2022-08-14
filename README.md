@@ -1,6 +1,6 @@
 # Trabajo practico REACT
 
-## Ejercicios 8 
+## Ejercicio 8 
 
 Este proyecto esta realizado con proposito de ejercitacion para cracion de Formularios con react.
 
